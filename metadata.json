@@ -1,0 +1,6 @@
+{
+  "name": "NovaBank Core Ledger",
+  "description": "Realistic distributed core banking system with double-entry ledger, idempotency protection, KYC verification, and operations audit console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
